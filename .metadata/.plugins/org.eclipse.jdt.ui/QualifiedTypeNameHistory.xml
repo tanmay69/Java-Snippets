@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.sound.sampled.DataLine.Info"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.DataLine"/>
+<fullyQualifiedTypeName name="test.frequency.Waves.Sample"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.TargetDataLine"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.AudioSystem"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+<fullyQualifiedTypeName name="javax.sound.sampled.AudioInputStream"/>
+<fullyQualifiedTypeName name="test.frequency.Waves.Capture"/>
+<fullyQualifiedTypeName name="java.awt.geom.Line2D"/>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="java.text.AttributedCharacterIterator"/>
+<fullyQualifiedTypeName name="java.awt.font.FontRenderContext"/>
+<fullyQualifiedTypeName name="java.awt.font.LineBreakMeasurer"/>
+<fullyQualifiedTypeName name="java.text.AttributedString"/>
+<fullyQualifiedTypeName name="java.awt.font.TextAttribute"/>
+</qualifiedTypeNameHistroy>
